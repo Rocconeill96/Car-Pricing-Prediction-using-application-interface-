@@ -19,6 +19,7 @@ To aid the user, extra bits of functionality were added to enhance the experienc
 - PferdStarke (PS) to Brake Horse Power (BHP)
 - CC to litres
 - Pounds to dollars/ euros conversion using [real time api](https://www.exchangerate-api.com/)
+- Error window displaying incorrect inputs and why
 
 
 ## Author info
