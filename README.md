@@ -29,6 +29,7 @@ Data cleaning was also performed via pandas to ensure the data was of high quali
 - Mean encoding used with one hot encoding to convert categorical variables numerically for the model
 - Lasso regression, decision tree and random forest regression trained to find the best model
 - Multiple hyperparameters were tuned
+
    Cross validation
    alpha (for lasso regression)
    number of trees and depth (random forest)
