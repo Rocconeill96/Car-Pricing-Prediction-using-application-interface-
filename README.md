@@ -23,9 +23,16 @@ The variables included were:
 - Transmission
 - Fuel type
 
+Data cleaning was also performed via pandas to ensure the data was of high quality with no null values to affect the analysis
+
 ## Machine learning model
-
-
+- Mean encoding used with one hot encoding to convert categorical variables numerically for the model
+- Lasso regression, decision tree and random forest regression trained to find the best model
+- Multiple hyperparameters were tuned
+   Cross validation
+   alpha (for lasso regression)
+   number of trees and depth (random forest)
+- Random forest regression performed the best with an R2 score of 0.88 and MAE of 19%
 
 ## Graphical User Interface
 The focus of the GUI was to make it simply and easy to use. This was important because when users are presented with a complex or confusing interface, it makes it more inaccesible and reduces user engagement.
