@@ -12,7 +12,11 @@ Development of a car machine learning model using publicly available data
 
 
 ## Graphical User Interface
-The focus of the GUI was to make it simply and easy to use. This was important because when users are presented with a complex or confusing interface, it makes it more inaccesible and reduces user engagement
+The focus of the GUI was to make it simply and easy to use. This was important because when users are presented with a complex or confusing interface, it makes it more inaccesible and reduces user engagement.
+
+To aid the user, extra bits of functionality were added to enhance the experience:
+- Conversion tools 
+..-check
 
 
 ## Author info
