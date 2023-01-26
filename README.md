@@ -1,6 +1,11 @@
 # Car-machine-learning-model
 Development of a car machine learning model using publicly available data
 
+## Table of contents
+- [Webscraping](https://github.com/SuperSalcedo22/Car-machine-learning-model#webscraping)
+- [Machine learning](https://github.com/SuperSalcedo22/Car-machine-learning-model#machine-learning-model)
+- [Graphical User Interface](https://github.com/SuperSalcedo22/Car-machine-learning-model#graphical-user-interface)
+- [Author Info](https://github.com/SuperSalcedo22/Car-machine-learning-model/blob/main/README.md#author-info)
 
 ## Webscraping
 - After considering several websites, the team decided to utilize [Autotrader](https://www.autotrader.co.uk/)
