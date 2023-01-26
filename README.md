@@ -15,8 +15,10 @@ Development of a car machine learning model using publicly available data
 The focus of the GUI was to make it simply and easy to use. This was important because when users are presented with a complex or confusing interface, it makes it more inaccesible and reduces user engagement.
 
 To aid the user, extra bits of functionality were added to enhance the experience:
-- Conversion tools 
-  -check
+- kilometre to miles conversion
+- PferdStarke (PS) to Brake Horse Power (BHP)
+- CC to litres
+- Pounds to dollars/ euros conversion using [real time api](https://www.exchangerate-api.com/)
 
 
 ## Author info
