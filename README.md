@@ -30,9 +30,10 @@ Data cleaning was also performed via pandas to ensure the data was of high quali
 - Lasso regression, decision tree and random forest regression trained to find the best model
 - Multiple hyperparameters were tuned
 
-   Cross validation
-   alpha (for lasso regression)
-   number of trees and depth (random forest)
+   - Cross validation
+   - alpha (for lasso regression)
+   - number of trees and depth (random forest)
+
 - Random forest regression performed the best with an R2 score of 0.88 and MAE of 19%
 
 ## Graphical User Interface
