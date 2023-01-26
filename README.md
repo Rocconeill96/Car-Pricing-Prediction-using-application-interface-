@@ -16,10 +16,9 @@ The variables included were:
 - Mileage
 - Body type
 - Make
-- Model 
 - Power
 - Engine size
-- Year
+- Year (age of car)
 - Transmission
 - Fuel type
 
