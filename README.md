@@ -4,7 +4,7 @@ Development of a car machine learning model using publicly available data
 
 ## Webscraping
 - After considering several websites, the team decided to utilize [Autotrader](https://www.autotrader.co.uk/)
-- [Selenium]https://www.selenium.dev/) used to scrape the data
+- [Selenium](https://www.selenium.dev/) used to scrape the data
 
 The variables included were:
 - Price
