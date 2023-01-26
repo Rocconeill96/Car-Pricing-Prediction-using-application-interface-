@@ -16,7 +16,7 @@ The focus of the GUI was to make it simply and easy to use. This was important b
 
 To aid the user, extra bits of functionality were added to enhance the experience:
 - Conversion tools 
-..-check
+  -check
 
 
 ## Author info
